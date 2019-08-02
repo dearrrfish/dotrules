@@ -1,0 +1,6 @@
+[submodule "modules/lhie1"]
+	path = modules/lhie1
+	url = https://github.com/lhie1/Rules.git
+[submodule "modules/divine_engine"]
+	path = modules/divine_engine
+	url = https://github.com/ConnersHua/Profiles

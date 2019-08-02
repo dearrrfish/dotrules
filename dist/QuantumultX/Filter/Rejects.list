@@ -4072,6 +4072,7 @@ DOMAIN-SUFFIX,img.9duw.com,REJECT
 DOMAIN-SUFFIX,img.ad.zhangyue.com,REJECT
 DOMAIN-SUFFIX,img.adbox.sina.com.cn,REJECT
 DOMAIN-SUFFIX,img.adnyg.com,REJECT
+DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com,REJECT
 DOMAIN-SUFFIX,img.amp.ad.sina.com.cn,REJECT
 DOMAIN-SUFFIX,img.applovin.com,REJECT
 DOMAIN-SUFFIX,img.auction-ads.wpscdn.cn,REJECT
@@ -4827,6 +4828,7 @@ DOMAIN-SUFFIX,log-yex.youdao.com,REJECT
 DOMAIN-SUFFIX,log.hunantv.com,REJECT
 DOMAIN-SUFFIX,log.kuwo.cn,REJECT
 DOMAIN-SUFFIX,log.stat.kugou.com,REJECT
+DOMAIN-SUFFIX,log.tagtic.cn,REJECT
 DOMAIN-SUFFIX,log.v2.hunantv.com,REJECT
 DOMAIN-SUFFIX,log.web.kugou.com,REJECT
 DOMAIN-SUFFIX,log.ycapp.yiche.com,REJECT

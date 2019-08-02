@@ -4,3 +4,6 @@
 [submodule "modules/divine_engine"]
 	path = modules/divine_engine
 	url = https://github.com/ConnersHua/Profiles
+[submodule "modules/nobyda"]
+	path = modules/nobyda
+	url = https://github.com/NobyDa/Script.git

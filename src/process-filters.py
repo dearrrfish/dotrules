@@ -5,6 +5,7 @@ filter_files = [
     "../modules/divine_engine/Quantumult/X/Filter/Advertising.list",
     "../modules/divine_engine/Quantumult/X/Filter/Hijacking.list",
     "../modules/lhie1/Quantumult/QuantumultX.conf",
+    "../modules/nobyda/QuantumultX/AdRule.list",
 ]
 
 output_rejects = "../dist/QuantumultX/Filter/Rejects.list"

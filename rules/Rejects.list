@@ -1,0 +1,7 @@
+# Baidu Ads
+DOMAIN-SUFFIX,aod-image.baidu.com,REJECT
+DOMAIN-SUFFIX,nadvideo.baidu.com,REJECT
+DOMAIN-SUFFIX,crab.baidu.com,REJECT
+DOMAIN-SUFFIX,sofire.baidu.com,REJECT
+DOMAIN-SUFFIX,paimgcdn-feed.baidu.com,REJECT
+DOMAIN-KEYWORD,aod-image,REJECT

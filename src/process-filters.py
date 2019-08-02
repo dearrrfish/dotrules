@@ -2,6 +2,7 @@ from os import path
 
 script_path = path.dirname(path.realpath(__file__))
 filter_files = [
+    "../rules/Rejects.list",
     "../modules/divine_engine/Quantumult/X/Filter/Advertising.list",
     "../modules/divine_engine/Quantumult/X/Filter/Hijacking.list",
     "../modules/lhie1/Quantumult/QuantumultX.conf",

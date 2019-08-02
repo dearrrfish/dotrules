@@ -1314,6 +1314,8 @@ DOMAIN-SUFFIX,anreson.net,REJECT
 DOMAIN-SUFFIX,antivirus.baidu.com,REJECT
 DOMAIN-SUFFIX,anyangruisi.com,REJECT
 DOMAIN-SUFFIX,anysdk.com,REJECT
+DOMAIN-KEYWORD,aod-image,REJECT
+DOMAIN-SUFFIX,aod-image.baidu.com,REJECT
 DOMAIN-SUFFIX,aodongjiaosu.com,REJECT
 DOMAIN-SUFFIX,aombjl099.com,REJECT
 DOMAIN-SUFFIX,aoodoo.feng.com,REJECT
@@ -2423,6 +2425,7 @@ DOMAIN-SUFFIX,cqyhd.com,REJECT
 DOMAIN-SUFFIX,cr-nielsen.com,REJECT
 DOMAIN-SUFFIX,cr-p16.ladsp.com,REJECT
 DOMAIN-SUFFIX,cr.m.liebao.cn,REJECT
+DOMAIN-SUFFIX,crab.baidu.com,REJECT
 DOMAIN-SUFFIX,crashapi.growingio.com,REJECT
 DOMAIN-SUFFIX,crashes.mo.wps.cn,REJECT
 DOMAIN-SUFFIX,crasheye.cn,REJECT
@@ -5622,6 +5625,7 @@ DOMAIN-SUFFIX,n.yfi8.com,REJECT
 DOMAIN-SUFFIX,n.zqqf0.cn,REJECT
 DOMAIN-SUFFIX,na1r.services.adobe.com,REJECT
 DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com,REJECT
+DOMAIN-SUFFIX,nadvideo.baidu.com,REJECT
 DOMAIN-SUFFIX,nai.cpxkvc.com,REJECT
 DOMAIN-SUFFIX,namedq.com,REJECT
 DOMAIN-SUFFIX,namemek.com,REJECT
@@ -5918,6 +5922,7 @@ DOMAIN-SUFFIX,pagechoice.com,REJECT
 DOMAIN-SUFFIX,pagechoice.net,REJECT
 DOMAIN-SUFFIX,pagechoicemotu.gentags.net,REJECT
 DOMAIN-SUFFIX,pages2.marketo.com,REJECT
+DOMAIN-SUFFIX,paimgcdn-feed.baidu.com,REJECT
 DOMAIN-SUFFIX,paimgcdn.baidu.com,REJECT
 DOMAIN-SUFFIX,painiuimg.com,REJECT
 DOMAIN-SUFFIX,palmnews.sina.cn,REJECT
@@ -6903,6 +6908,7 @@ DOMAIN-SUFFIX,sobar.baidu.com,REJECT
 DOMAIN-SUFFIX,sobartop.baidu.com,REJECT
 DOMAIN-SUFFIX,social-touch.com,REJECT
 DOMAIN-SUFFIX,sod.onelink.me,REJECT
+DOMAIN-SUFFIX,sofire.baidu.com,REJECT
 DOMAIN-SUFFIX,soft.chaomeng8.com,REJECT
 DOMAIN-SUFFIX,soft.zhidian3g.cn,REJECT
 DOMAIN-SUFFIX,sohu.irs01.com,REJECT
